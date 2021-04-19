@@ -15,6 +15,8 @@ https://senichq.github.io/TestBlackSite/
 ###
 https://senichq.github.io/1/
 ###
+https://senichq.github.io/-slick/
+###
 Со временем буду пополнять git 
 ###
 
